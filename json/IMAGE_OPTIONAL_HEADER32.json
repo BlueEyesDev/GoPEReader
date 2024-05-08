@@ -1,0 +1,153 @@
+{
+    "Magic": {
+      "Offset": 0,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "MajorLinkerVersion": {
+      "Offset": 2,
+      "Size": 1,
+      "Type": "byte"
+    },
+    "MinorLinkerVersion": {
+      "Offset": 3,
+      "Size": 1,
+      "Type": "byte"
+    },
+    "SizeOfCode": {
+      "Offset": 4,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfInitializedData": {
+      "Offset": 8,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfUninitializedData": {
+      "Offset": 12,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "AddressOfEntryPoint": {
+      "Offset": 16,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "BaseOfCode": {
+      "Offset": 20,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "BaseOfData": {
+      "Offset": 24,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "ImageBase": {
+      "Offset": 28,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SectionAlignment": {
+      "Offset": 32,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "FileAlignment": {
+      "Offset": 36,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "MajorOperatingSystemVersion": {
+      "Offset": 40,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "MinorOperatingSystemVersion": {
+      "Offset": 42,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "MajorImageVersion": {
+      "Offset": 44,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "MinorImageVersion": {
+      "Offset": 46,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "MajorSubsystemVersion": {
+      "Offset": 48,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "MinorSubsystemVersion": {
+      "Offset": 50,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "Win32VersionValue": {
+      "Offset": 52,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfImage": {
+      "Offset": 56,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfHeaders": {
+      "Offset": 60,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "CheckSum": {
+      "Offset": 64,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "Subsystem": {
+      "Offset": 68,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "DllCharacteristics": {
+      "Offset": 70,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "SizeOfStackReserve": {
+      "Offset": 72,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfStackCommit": {
+      "Offset": 76,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfHeapReserve": {
+      "Offset": 80,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfHeapCommit": {
+      "Offset": 84,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "LoaderFlags": {
+      "Offset": 88,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "NumberOfRvaAndSizes": {
+      "Offset": 92,
+      "Size": 4,
+      "Type": "uint"
+    }
+  }
+  

@@ -1,0 +1,153 @@
+{
+    "ExportTableRva": {
+      "Offset": 0,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfExportTable": {
+      "Offset": 4,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "ImportTableRva": {
+      "Offset": 8,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfImportTable": {
+      "Offset": 12,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "ResourceTableRva": {
+      "Offset": 16,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfResourceTable": {
+      "Offset": 20,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "ExceptionTableRva": {
+      "Offset": 24,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfExceptionTable": {
+      "Offset": 28,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "CertificateTableRva": {
+      "Offset": 32,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfCertificateTable": {
+      "Offset": 36,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "BaseRelocationTableRva": {
+      "Offset": 40,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfBaseRelocation": {
+      "Offset": 44,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "DebugRva": {
+      "Offset": 48,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfDebug": {
+      "Offset": 52,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "ArchitectureRva": {
+      "Offset": 56,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfArchitecture": {
+      "Offset": 60,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "GlobalPtrRva": {
+      "Offset": 64,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfGlobalPointer": {
+      "Offset": 68,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "TLSTableRva": {
+      "Offset": 72,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfTLSTable": {
+      "Offset": 76,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "LoadConfigTableRva": {
+      "Offset": 80,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfLoadConfigTable": {
+      "Offset": 84,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "BoundImportRva": {
+      "Offset": 88,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfBoundImport": {
+      "Offset": 92,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "ImportAddressTableRva": {
+      "Offset": 96,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfImportAddressTable": {
+      "Offset": 100,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "DelayImportDescriptorRva": {
+      "Offset": 104,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfDelayImportDescriptor": {
+      "Offset": 108,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "CLRRuntimeHeaderRva": {
+      "Offset": 112,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfCLRRuntimeHeader": {
+      "Offset": 116,
+      "Size": 4,
+      "Type": "uint"
+    }
+  }
+  

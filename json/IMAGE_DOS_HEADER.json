@@ -1,0 +1,98 @@
+{
+    "e_magic": {
+      "Offset": 0,
+      "Size": 2,
+      "Type": "array_char"
+    },
+    "e_cblp": {
+      "Offset": 2,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_cp": {
+      "Offset": 4,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_crlc": {
+      "Offset": 6,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_cparhdr": {
+      "Offset": 8,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_minalloc": {
+      "Offset": 10,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_maxalloc": {
+      "Offset": 12,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_ss": {
+      "Offset": 14,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_sp": {
+      "Offset": 16,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_csum": {
+      "Offset": 18,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_ip": {
+      "Offset": 20,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_cs": {
+      "Offset": 22,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_lfarlc": {
+      "Offset": 24,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_ovno": {
+      "Offset": 26,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_res1": {
+      "Offset": 28,
+      "Size": 4,
+      "Type": "array_short"
+    },
+    "e_oemid": {
+      "Offset": 36,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_oeminfo": {
+      "Offset": 38,
+      "Size": 2,
+      "Type": "short"
+    },
+    "e_res2": {
+      "Offset": 40,
+      "Size": 10,
+      "Type": "array_short"
+    },
+    "e_lfanew": {
+      "Offset": 60,
+      "Size": 4,
+      "Type": "short"
+    }
+  }
+  

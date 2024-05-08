@@ -1,0 +1,38 @@
+{
+    "Machine": {
+      "Offset": 0,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "NumberOfSections": {
+      "Offset": 2,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "TimeDateStamp": {
+      "Offset": 4,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "PointerToSymbolTable": {
+      "Offset": 8,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "NumberOfSymbols": {
+      "Offset": 12,
+      "Size": 4,
+      "Type": "uint"
+    },
+    "SizeOfOptionalHeader": {
+      "Offset": 16,
+      "Size": 2,
+      "Type": "ushort"
+    },
+    "Characteristics": {
+      "Offset": 18,
+      "Size": 2,
+      "Type": "ushort"
+    }
+  }
+  
